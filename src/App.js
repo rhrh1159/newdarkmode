@@ -1,4 +1,4 @@
-mport React, { useState } from 'react';
+import React, { useState } from 'react';
 import DarkMode from 'DarkMode';
 import {lightTheme, darkTheme} from 'theme';
 import { ThemeProvider } from 'styled-components';
